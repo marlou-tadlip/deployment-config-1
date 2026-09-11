@@ -17,6 +17,6 @@ spec:
    spec:
      containers:
      - name: flask-app
-       image: zenkript/python-flaskapp:v13-868354b
+       image: zenkript/python-flaskapp:v303-1ea578c
        ports:
        - containerPort: 5000
